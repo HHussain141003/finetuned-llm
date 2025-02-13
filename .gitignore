@@ -6,3 +6,5 @@ node_modules/
 /playwright/.cache/
 .env
 .vscode/
+data.json
+scraper.js
