@@ -9,3 +9,6 @@ node_modules/
 data.json
 scraper.js
 venv
+*.safetensors
+cleaned_json.json
+dataset.json
