@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCCJCkmOHT8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HUSSAINH\\OneDrive - FUJITSU\\Documents\\Projects\\5. C# and .NET training\\Microsoft based LLM\\cs-data-cleaning\\cs-data-cleaning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HUSSAINH\\.nuget\\packages\\htmlagilitypack\\1.11.72\\htmlagilitypack.1.11.72.nupkg.sha512"
+  ],
+  "logs": []
+}
