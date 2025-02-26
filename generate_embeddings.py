@@ -5,8 +5,10 @@ from sentence_transformers import SentenceTransformer
 
 with open("cleaned_json.json", "r", encoding="utf-8") as f:
     data = json.load(f)
+# Can't retrieve directly from Hugging Face due to corporate network restrictions
+# embedder = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
-embedder = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+embedder = SentenceTransformer("./models/all-MiniLM-L6-v2")
 
 documents = [entry["content"] for entry in data]
 embeddings = embedder.encode(documents, convert_to_numpy=True)
