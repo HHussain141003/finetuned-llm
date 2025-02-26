@@ -1,0 +1,17 @@
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\bin\Debug\net8.0\cs-data-cleaning.exe
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\bin\Debug\net8.0\cs-data-cleaning.deps.json
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\bin\Debug\net8.0\cs-data-cleaning.runtimeconfig.json
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\bin\Debug\net8.0\cs-data-cleaning.dll
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\bin\Debug\net8.0\cs-data-cleaning.pdb
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\cs-data-cleaning.csproj.AssemblyReference.cache
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\cs-data-cleaning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\cs-data-cleaning.AssemblyInfoInputs.cache
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\cs-data-cleaning.AssemblyInfo.cs
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\cs-data-cleaning.csproj.CoreCompileInputs.cache
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\cs-data-.22AF7C2D.Up2Date
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\cs-data-cleaning.dll
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\refint\cs-data-cleaning.dll
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\cs-data-cleaning.pdb
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\cs-data-cleaning.genruntimeconfig.cache
+C:\Users\HUSSAINH\OneDrive - FUJITSU\Documents\Projects\5. C# and .NET training\Microsoft based LLM\cs-data-cleaning\obj\Debug\net8.0\ref\cs-data-cleaning.dll
