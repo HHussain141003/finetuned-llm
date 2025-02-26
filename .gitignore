@@ -1,4 +1,4 @@
-
+tasks.todo
 node_modules/
 /test-results/
 /playwright-report/
@@ -12,3 +12,5 @@ venv
 *.safetensors
 cleaned_json.json
 dataset.json
+all-MiniLM-L6-v2/
+deepseek-ai/
