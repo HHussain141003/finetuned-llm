@@ -3,3 +3,9 @@ import faiss
 import json
 import numpy as np
 from sentence_transformers import SentenceTransformer
+
+index = faiss.read_index("microsoft_learn_index.faiss")
+with open("document_store.json", "r", encoding="utf-8") as f:
+    document_store = json.load(f)
+
+embedder = SentenceTransformer("./models/all-MiniLM-L6-v2")
