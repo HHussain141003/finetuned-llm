@@ -1,3 +1,4 @@
+accelerate==1.4.0
 annotated-types==0.7.0
 anyio==4.8.0
 asgiref==3.8.1
@@ -62,6 +63,7 @@ packaging==24.2
 pillow==11.1.0
 posthog==3.16.0
 protobuf==5.29.3
+psutil==7.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pydantic==2.10.6
