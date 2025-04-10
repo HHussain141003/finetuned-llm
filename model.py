@@ -26,14 +26,13 @@ def generate_answer(query):
     context = "\n\n".join([doc["content"] for doc in retrieved_docs])
 
     prompt = f"""
-    Answer the question in simple and concise terms using the context and Microsoft Learn material only.
+    Answer the question concisely using the context and Microsoft Learn material only. Do not repeat yourself.
     
     Context:
     {context}
 
     Question: {query}
     
-    Please provide a detailed and step-by-step answer, including any relevant code or examples.
     """
 
     input_data = tokenizer(prompt, return_tensors="pt", padding=True, truncation=True)
@@ -43,7 +42,7 @@ def generate_answer(query):
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
 
-    output = model.generate(input_ids, max_new_tokens=500, do_sample=True, temperature=0.3)
+    output = model.generate(input_ids, max_new_tokens=200, do_sample=True, temperature=0.8)
     return tokenizer.decode(output[0], skip_special_tokens=True)
 
 question = input("Question: ")
