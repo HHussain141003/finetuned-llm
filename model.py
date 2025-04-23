@@ -28,9 +28,9 @@ def generate_answer(query):
     context = "\n\n".join([doc["content"] for doc in retrieved_docs])
 
     prompt = f"""
-    Answer the question concisely using the data provided. Do not repeat yourself.
+    Answer the question using the context.
     
-    Data Provided:
+    Context:
     {context}
 
     Question: 
