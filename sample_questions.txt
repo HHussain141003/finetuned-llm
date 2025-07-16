@@ -1,0 +1,10 @@
+How can I send an automated email to a csv client list every day at 6pm using Power Automate? 
+Create a PowerFX function to create a random number between 1 and 10
+How can I embed a Canvas app in a Model Driven App?
+Give me an example of a Business Process Flow
+What is the difference between a Scheduled Flow and a Desktop Flow?
+What are Power Platform governance best practices?
+What is delegation in Power Apps and why is it important?
+How do I create responsive designs in Power Apps?
+This function isn't working, can you fix it? RandBetween( 0. 99 )
+Can you give me an Azure function implementation that would return the temperature in the UK?

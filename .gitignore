@@ -14,3 +14,11 @@ cleaned_json.json
 dataset.json
 all-MiniLM-L6-v2/
 deepseek-ai/
+__pycache__
+test.py
+local/
+/data/
+local.txt
+cs-data-cleaning/
+clean.py
+microsoft_learn_index.faiss
